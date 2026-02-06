@@ -1,35 +1,58 @@
 <p align="center">
-  <img src="images/profileImage.png" alt="ProfileImage" width="200">
+  <img src="images/profileImage.png" alt="Profile Image" width="200">
 </p>
 
-# 📱 Marco Witt – iOS App Portfolio
+# 📱 Marco Witt — iOS App Portfolio
 
-Willkommen in meinem öffentlichen App-Portfolio.  
-Hier findest du eine Übersicht meiner aktuellen iOS-Projekte inklusive Screenshots, Beschreibungen und Technologie-Stacks.
+Welcome to my public iOS app portfolio.  
+This repository provides an overview of selected iOS projects, focusing on architecture, UI/UX decisions, and technical structure.
+
+Most of my professional work is private due to client and employer projects.  
+The apps shown here are intended to demonstrate my **architecture choices, UI/UX focus, and technical depth**.
 
 ---
 
-## 🔍 App-Projekte
+## 🚀 Selected Apps
 
 ### 1. [NetCompanion](https://github.com/wittBuiltDev/NetCompanion-Architecture)
-- **Technologien**: SwiftUI · Charts · Apple Keychain · WidgetKit · StoreKit2 · RevenueCat · OAuth 2.0 Authentication
-- **Beschreibung**: Eine App zur Visualisierung von Netatmo-Wetterdaten mit flexiblem Chart-View und Premium-Funktionen.
+**Tech Stack:**  
+SwiftUI · Charts · WidgetKit · StoreKit 2 · RevenueCat · Keychain · OAuth 2.0
+
+**Description:**  
+A companion app for Netatmo weather stations that visualizes sensor data with flexible chart views and a premium feature model.
+
+**Highlights:**
+- Modular SwiftUI architecture
+- Clean separation of networking, domain, and UI layers
+- Widgets and StoreKit 2–based monetization
+- Independently designed, implemented, and released to the App Store
 
 ---
 
 ### 2. [See-Sights](https://github.com/Makaveli1971/See-Sights-App)
-- **Technologien**: SwiftUI · MapKit · Sheets · Offline-Fallbacks
-- **Beschreibung**: Eine App, um Sehenswürdigkeiten am See zu entdecken – mit schöner Kartenintegration und Detailansichten.
-- **📸 Screenshots & GIFs**: im Repository verfügbar
+**Tech Stack:**  
+SwiftUI · MapKit · Sheets · Offline fallback handling
+
+**Description:**  
+An iOS app for discovering points of interest around lakes, featuring map-based exploration and detailed location views.
+
+📸 Screenshots and GIFs are available in the repository.
 
 ---
 
-## 👤 Über mich
+## 👤 About Me
 
 **Marco Witt**  
-iOS-Developer · SwiftUI-Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/marco-witt-1265301b6)
+iOS Developer · SwiftUI Enthusiast  
+
+- Focus on modern iOS development with SwiftUI
+- Strong interest in clean architecture and maintainable code
+- Experience across private client projects and independently developed iOS apps
+
+🔗 [LinkedIn](https://www.linkedin.com/in/marco-witt-1265301b6)
 
 ---
 
-_Alle Projekte sind bewusst „read-only“ – der Code wird nicht geteilt. Fokus liegt auf Architektur, Design und Funktionalität._
+> ⚠️ Note  
+> All showcased projects are intentionally **read-only**.  
+> The focus is on architecture, design decisions, and functionality rather than public code sharing.
