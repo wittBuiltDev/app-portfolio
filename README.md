@@ -31,7 +31,7 @@ A companion app for Netatmo weather stations that visualizes sensor data with fl
 
 ### 2. [See-Sights](https://github.com/Makaveli1971/See-Sights-App)
 **Tech Stack:**  
-SwiftUI · MapKit · Sheets · Offline fallback handling
+SwiftUI · MapKit · Offline fallback handling
 
 **Description:**  
 An iOS app for discovering points of interest around lakes, featuring map-based exploration and detailed location views.
