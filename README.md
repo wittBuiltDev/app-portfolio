@@ -11,10 +11,9 @@ Hier findest du eine Übersicht meiner aktuellen iOS-Projekte inklusive Screensh
 
 ## 🔍 App-Projekte
 
-### 1. [NetCompanion](https://github.com/Makaveli1971/NetCompanionApp)
-- **Technologien**: SwiftUI · StoreKit2 · Charts · Keychain · WidgetKit
+### 1. [NetCompanion](https://github.com/wittBuiltDev/NetCompanion-Architecture)
+- **Technologien**: SwiftUI · Charts · Apple Keychain · WidgetKit · StoreKit2 · RevenueCat · OAuth 2.0 Authentication
 - **Beschreibung**: Eine App zur Visualisierung von Netatmo-Wetterdaten mit flexiblem Chart-View und Premium-Funktionen.
-- **📸 Screenshots & GIFs**: im Repository verfügbar
 
 ---
 
